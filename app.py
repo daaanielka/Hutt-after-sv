@@ -118,8 +118,8 @@ hr { margin: 1.1rem 0; }
 # MODEL LOADING
 # =============================================================================
 BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
-PATH_P1   = os.path.join(BASE_DIR, "model_p1_et.joblib")
-PATH_P3   = os.path.join(BASE_DIR, "model_p3_et.joblib")
+PATH_P1 = os.path.join(BASE_DIR, "models", "model_p1_et.joblib")
+PATH_P3 = os.path.join(BASE_DIR, "models", "model_p3_et.joblib")
 
 
 @st.cache_resource(show_spinner=False)
