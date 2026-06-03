@@ -641,7 +641,7 @@ modelu <b>P3 Extra Trees</b> (anamnéza + dotazník).
 <div class="notice">
 <b>Pre koho je aplikácia určená:</b><br>
 Pre pacientov odoslaných na HUTT vyšetrenie s niektorou z týchto indikácií:<br>
-strata vedomia · pocit hroziacej straty vedomia · opakované pády · stav po epileptickom záchvate · stav po resuscitácii.<br>
+strata vedomia · pocit hroziacej straty vedomia · opakované pády.<br>
 Skóre odráža riziko v kontexte tejto predselektovanej skupiny.<br>
 Pacienti po resuscitácii (n=2) a po epileptickom záchvate (n=8) sú v tréningových dátach zastúpení minimálne, predikcie pre nich interpretujte s mimoriadnou opatrnosťou.
 </div>
